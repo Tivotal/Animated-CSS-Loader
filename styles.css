@@ -45,7 +45,8 @@ body {
   }
   35% {
     width: 40px;
-    box-shadow: 0 -8px rgba(225, 20, 98, 0.75), 0 8px rgba(111, 202, 220, 0.75);
+    box-shadow: 0 -8px rgba(225, 20, 98, 0.75), 
+       0 8px rgba(111, 202, 220, 0.75);
   }
   70% {
     width: 8px;
@@ -70,7 +71,8 @@ body {
   }
   35% {
     height: 40px;
-    box-shadow: 8px 0 rgba(61, 184, 143, 0.75), -8px 0 rgba(233, 169, 32, 0.75);
+    box-shadow: 8px 0 rgba(61, 184, 143, 0.75), 
+       -8px 0 rgba(233, 169, 32, 0.75);
   }
   70% {
     height: 8px;
